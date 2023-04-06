@@ -10,11 +10,9 @@ The snake can be controlled using the arrow keys on your keyboard. The up arrow 
 
 ## Demo
 
-Here is a demo of the snake game:
-https://user-images.githubusercontent.com/36500813/230247917-a87785a5-41e3-41e1-8a4f-c83655cb2587.mp4
+To see a demo of the game, click [here](https://youtu.be/onSGCqHNwr0).
 
 <!-- ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
 
 ## Acknowledgments
